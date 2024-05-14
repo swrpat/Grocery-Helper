@@ -1,0 +1,9 @@
+data/
+result/
+static/
+text/
+upload/
+wip/
+log.csv
+GroceryItem.py
+main.py
